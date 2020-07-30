@@ -1,0 +1,7 @@
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe.config
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.pdb
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.csprojAssemblyReference.cache
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.csproj.CoreCompileInputs.cache
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.exe
+E:\Zensar_tech_training\Assignments\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.pdb
